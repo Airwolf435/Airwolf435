@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Airwolf435
+- 👋 Hi, I’m John Keenan
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning HTML, CSS, Python, and JavaScript
-- 💞️ I’m looking to collaborate on any projects that help people with mental health.
+- 💞️ I’m looking to collaborate on any projects that help people with their mental health.
 - 📫 You can reach me via email at jgknomad@gmail.com
 
 <!---
